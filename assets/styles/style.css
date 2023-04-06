@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-bg{
+    background-color: #159895;
+}
+
+.btn-bg-color{
+    background-color: #159895;
+    color:white
+}
+
+.btn-bg-color-light{
+    background-color: #159895;
+}
